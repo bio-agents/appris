@@ -1,0 +1,5 @@
+checkUsage              Check R Code for Possible Problems
+codeagents               Low Level Code Analysis Agents for R
+findGlobals             Find Global Functions and Variables Used by a
+                        Closure
+showTree                Print Lisp-Style Representation of R Expression
